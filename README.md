@@ -67,19 +67,13 @@ A financial AI agent that provides institutional-grade investment insights using
 Finance_AI/
 │
 ├── finance_ai_agent.py              # Main AI agent with quarterly analysis
-├── debug_quarterly.py              # Quarterly aggregation debugging
 ├── requirements.txt                # Dependencies (LangChain, yfinance, etc.)
-├── config.py                       # Configuration settings
 ├── README.md                       # This comprehensive guide
 ├── utils/                          # Utility modules
 │   ├── __init__.py
 │   ├── sec_fetcher.py              # SEC EDGAR 10-Q API integration
 │   ├── stock_fetcher.py            # Quarterly stock data aggregation
 │   └── ai_analyzer.py              # Quarterly-focused AI analysis
-├── results/                        # Quarterly analysis outputs (JSON)
-├── plots/                          # Quarterly visualizations (PNG)
-├── reports/                        # AI-generated market reports (MD)
-└── logs/                           # Application and debug logs
 ```
 
 ## 🧠 AI Capabilities
@@ -161,5 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: https://github.com/sanp500ai/Finance_AI
 
 ---
+
 
 **🚨 Disclaimer**: This AI tool is for educational and research purposes only. AI-generated investment advice should not be used as the sole basis for investment decisions. The AI may make mistakes or have biases. Always consult with financial professionals, conduct your own research, and consider multiple sources before making investment decisions. Past performance does not guarantee future results.
