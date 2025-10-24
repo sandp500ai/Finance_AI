@@ -1,0 +1,84 @@
+# Finance AI Agent - Requirements File
+# This file contains all the Python packages needed to run the Finance AI Agent
+
+# Core data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Web scraping and API requests
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Financial data source
+yfinance>=0.2.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# JSON handling (usually built-in, but ensuring compatibility)
+# json (built-in)
+
+# Logging and warnings (built-in)
+# logging (built-in)
+# warnings (built-in)
+
+# Type hints (for Python 3.7+)
+typing-extensions>=4.0.0
+
+# Enhanced data analysis
+scipy>=1.9.0
+
+# Progress bars for long operations
+tqdm>=4.64.0
+
+# LangChain and AI Integration
+langchain>=0.0.350
+openai>=1.3.0
+tiktoken>=0.5.0
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+
+# LangChain community integrations
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+
+# Additional AI/ML libraries
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+
+# Vector database support
+pinecone-client>=2.2.0
+weaviate-client>=3.25.0
+
+# Document processing (for future enhancements)
+pypdf2>=3.0.0
+python-docx>=0.8.0
+beautifulsoup4>=4.12.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Async support
+asyncio-throttle>=1.0.0
+aiohttp>=3.8.0
+
+# Optional: Jupyter notebook support (if running in notebooks)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Optional: Additional financial data sources
+# alpha-vantage>=2.3.0  # Uncomment if using Alpha Vantage API
+# quandl>=3.7.0         # Uncomment if using Quandl API
+# fredapi>=0.5.0        # Uncomment if using FRED API
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Security updates
+certifi>=2022.12.7

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 sandp500ai
+Copyright (c) 2025 Finance AI Agent Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+
+DISCLAIMER:
+
+This software is for educational and research purposes only. It should not be 
+used as the sole basis for investment decisions. The authors and contributors 
+of this software are not responsible for any financial losses or damages 
+that may result from the use of this software.
+
+Always consult with qualified financial professionals and conduct your own 
+research before making investment decisions. Past performance does not 
+guarantee future results.
+
+The data provided by this software is obtained from public sources and may 
+contain errors or inaccuracies. Users should verify all data independently 
+before making any investment decisions.
+
+================================================================================
+
+THIRD-PARTY NOTICES:
+
+This software uses the following open-source packages:
+- pandas: BSD 3-Clause License
+- numpy: BSD 3-Clause License  
+- matplotlib: PSF License
+- seaborn: BSD 3-Clause License
+- yfinance: Apache 2.0 License
+- requests: Apache 2.0 License
+
+Data Sources:
+- SEC EDGAR Database: Public domain
+- Yahoo Finance: Terms of Service apply
+
+================================================================================
