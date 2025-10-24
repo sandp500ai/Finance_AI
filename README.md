@@ -58,7 +58,7 @@ Finance_AI/
 ## 🧠 AI Capabilities
 
 ### LangChain Framework
-- **ChatOpenAI Integration**: Uses GPT-4 or a new model for financial analysis
+- **ChatOpenAI Integration**: Uses GPT-3.5 or a new model for financial analysis
 - **Prompt Templates**: Specialized prompts for financial analysis, market research, and investment recommendations
 - **Sequential Chains**: Multi-step analysis workflows for comprehensive insights
 - **Memory Management**: Maintains conversation context for interactive sessions
@@ -136,5 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **🚨 Disclaimer**: This AI tool is for educational and research purposes only. AI-generated investment advice should not be used as the sole basis for investment decisions. The AI may make mistakes or have biases. Always consult with financial professionals, conduct your own research, and consider multiple sources before making investment decisions. Past performance does not guarantee future results.
+
 
 
