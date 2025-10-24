@@ -3,14 +3,6 @@
 A financial AI agent that provides institutional-grade investment insights using LangChain, OpenAI, and official SEC filings. Features quarterly-aligned stock analysis with SEC 10-Q earnings data for professional-level fundamental analysis.
 
 ## � Key Features
-
-### 📊 **Quarterly-Aligned Financial Analysis**
-- **Quarterly Stock Performance**: Stock prices aggregated by calendar quarters for consistency with earnings
-- **SEC 10-Q Integration**: Exclusive use of quarterly SEC 10-Q filings (no annual 10-K data mixing)
-- **Correlation Analysis**: Statistical correlation between quarterly stock performance and earnings
-- **Institutional-Grade**: Matches professional equity analysis standards and methodologies
-- **Temporal Alignment**: Perfect synchronization between stock quarters and SEC reporting periods
-
 ### 🧠 **AI-Powered Investment Insights**
 - **Natural Language Analysis**: GPT-powered investment analysis using quarterly SEC fundamentals
 - **Conversational Interface**: Interactive chat about quarterly earnings, trends, and performance
@@ -19,15 +11,7 @@ A financial AI agent that provides institutional-grade investment insights using
 - **Portfolio Analysis**: Multi-stock quarterly performance and correlation analysis
 - **Smart Market Reports**: AI-generated reports focused on quarterly business performance
 
-### � **Comprehensive Quarterly Data Sources**
-- **SEC EDGAR API**: Official 10-Q quarterly financial statements only (no 10-K annual mixing)
-- **Yahoo Finance**: Quarterly-aggregated stock price data aligned with SEC periods
-- **Financial Metrics**: Quarterly earnings, revenue, assets, liabilities, and equity from 10-Q filings
-- **Correlation Engine**: Advanced analysis of quarterly stock vs. earnings relationships
-- **Professional Visualizations**: Quarterly charts with SEC 10-Q data overlay
-
 ## 🚀 Quick Start
-
 ### Prerequisites
 
 - Python 3.8 or higher
@@ -152,4 +136,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **🚨 Disclaimer**: This AI tool is for educational and research purposes only. AI-generated investment advice should not be used as the sole basis for investment decisions. The AI may make mistakes or have biases. Always consult with financial professionals, conduct your own research, and consider multiple sources before making investment decisions. Past performance does not guarantee future results.
+
 
